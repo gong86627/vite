@@ -1,5 +1,23 @@
 <template>
-  <div>switch Demo</div>
+  <div>
+    switch Demo
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+    <p>Switch 的文档</p>
+  </div>
 </template>
 
 <script lang="ts">
